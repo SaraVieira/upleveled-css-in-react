@@ -10,8 +10,8 @@ In these hours we went through a lot when it comes to CSS layouts, variables and
  - CSS Version: https://codesandbox.io/s/css-design-g6t0v
  - CSS Variables: https://codesandbox.io/s/css-design-variables-ri1nl
  - SCSS Version: https://codesandbox.io/s/scss-variables-xfrvk
- - Emotion Version: https://codesandbox.io/s/emotion-styled-jrw8n?file=/src/index.js
- - Emotion Theme Version: 
+ - Emotion Version: https://codesandbox.io/s/emotion-styled-jrw8n
+ - Emotion Theme Version: https://codesandbox.io/s/emotion-styled-themes-i37f5
 
 ### Resources
 
