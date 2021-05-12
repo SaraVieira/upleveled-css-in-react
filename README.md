@@ -16,6 +16,7 @@ In these hours we went through a lot when it comes to CSS layouts, variables and
 
 ### Resources
 
+- Frontend Mentor: [https://www.frontendmentor.io/challenges?types=free](https://www.frontendmentor.io/challenges?types=free)
 - FlexBox Guide: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - CSS Grid Game: [https://cssgridgarden.com/](https://cssgridgarden.com/)
 - FlexBox Game: [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
