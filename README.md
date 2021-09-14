@@ -25,6 +25,7 @@ In these hours we went through a lot when it comes to CSS layouts, variables and
  - Emotion styled docs https://emotion.sh/docs/@emotion/styled#gatsby-focus-wrapper
  - Emotion Global Styles: [https://emotion.sh/docs/globals](https://emotion.sh/docs/globals)
  - Emotion Theming: [https://emotion.sh/docs/theming](https://emotion.sh/docs/theming)
+ - Styled Components: [https://styled-components.com/](https://styled-components.com/)
 
 
 Thank you
