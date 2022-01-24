@@ -27,6 +27,7 @@ In these hours we went through a lot when it comes to CSS layouts, variables and
  - Emotion Global Styles: [https://emotion.sh/docs/globals](https://emotion.sh/docs/globals)
  - Emotion Theming: [https://emotion.sh/docs/theming](https://emotion.sh/docs/theming)
  - Styled Components: [https://styled-components.com/](https://styled-components.com/)
+ - Tailwind [https://tailwindcss.com/](https://tailwindcss.com/)
 
 
 Thank you
