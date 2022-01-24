@@ -13,6 +13,7 @@ In these hours we went through a lot when it comes to CSS layouts, variables and
  - SCSS Version: https://codesandbox.io/s/scss-variables-xfrvk
  - Emotion Version: https://codesandbox.io/s/emotion-styled-jrw8n
  - Emotion Theme Version: https://codesandbox.io/s/emotion-styled-themes-i37f5
+ - Tailwind: https://codesandbox.io/s/tailwind-7bzr2?file=/src/App.js
 
 ### Resources
 
