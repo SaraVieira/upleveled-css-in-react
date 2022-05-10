@@ -33,5 +33,4 @@ In these hours we went through a lot when it comes to CSS layouts, variables and
 Thank you
 
 Sara Vieira
-
 @NikkitaFTW
