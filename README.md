@@ -28,6 +28,7 @@ In these hours we went through a lot when it comes to CSS layouts, variables and
  - Emotion Theming: [https://emotion.sh/docs/theming](https://emotion.sh/docs/theming)
  - Styled Components: [https://styled-components.com/](https://styled-components.com/)
  - Tailwind [https://tailwindcss.com/](https://tailwindcss.com/)
+ - Tailwind VSCode plugin [https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 
 Thank you
